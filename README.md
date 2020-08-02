@@ -7,6 +7,7 @@ Varias cosas
 * Tener instalado el paquete moodle en Latex, este suele venir en el paquete prinicipal.
 * Tener instalado openssl para codificar imágenes en img64
 * Debe compilar desde la consola o configurar el programa que utilice para que agregue -shell-escape para que las imágenes compilen correctamente.
+* Debe compilar así:  `pdflatex -shell-escape plantilla.tex` Cambie el nombre de plantilla por el del archivo que esté usando.
 
 Agredecimientos (https://www.ctan.org/pkg/moodle) creado por Anders O.F Hendrickson.
 
