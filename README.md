@@ -1,4 +1,4 @@
-# moodleGenerator
+# Generador de bancos de preguntas con Látex
 
 Este archivo de Latex se utiliza para crear bancos de preguntas en Moodle de forma rápida, evitando problemas por la interfaz poco amigable para la creación de preguntas y las latencias del servidor. Este ha sido probado en el campus virtual de la Universidad del Valle.
 
