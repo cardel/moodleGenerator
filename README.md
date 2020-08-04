@@ -12,3 +12,19 @@ Varias cosas
 Agredecimientos (https://www.ctan.org/pkg/moodle) creado por Anders O.F Hendrickson.
 
 Cualquier duda me puede escribir a carlos.andres.delgado@correounivalle.edu.co
+
+##Importante
+
+En las preguntas de opción multiple con varias respuestas debe colocar el peso negativo en el XML generado o editar directamente en Moodle, de lo contrario si un estudiante marca todas la tomará como correcta.
+''
+\begin{multi}[multiple]{Nombre de la pregunta}
+
+Texto de la preginta
+
+\item* a
+\item* b
+\item* c
+\item d
+\item e
+\end{multi}
+''
